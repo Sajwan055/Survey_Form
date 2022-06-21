@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color:#16395e;
+    
+}
+h1,p {
+    background-color:#16395e;
+    color:#ffffff;
+    margin:auto;
+    text-align:center;
+}
+input,fieldset,textarea,{
+    display:block;
+    
+}
+.for{
+    min-width: 400px;
+    max-width:600px;
+    width:80vw;
+    margin:0 auto;
+    background-color:#05041d;
+}
+label{
+    display:block;
+}
